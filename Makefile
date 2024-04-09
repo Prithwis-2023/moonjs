@@ -1,4 +1,4 @@
-EMCC=/usr/local/emscripten/emcc
+EMCC=emsdk\upstream\emscripten\emcc
 CFLAGS=-O1
 DEPS = yaAGC.h agc_engine.h agc_symtab.h queue.h
 
